@@ -7,11 +7,11 @@
     tools:context=".MainActivity"
     android:background="@color/whit">
 
-    <ImageView
+    <pl.droidsonroids.gif.GifImageView
+
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/logotext"
-        android:layout_centerVertical="true"
+        android:layout_height="match_parent"
+        android:src="@drawable/speedcomp"
         />
 
 </RelativeLayout>
